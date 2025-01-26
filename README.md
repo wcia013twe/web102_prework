@@ -23,9 +23,8 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/PHA8U90"><a href="//imgur.com/PHA8U90">Prework Website Showcase</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
-<!-- <img src='https://imgur.com/a/PHA8U90' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-![Video Walkthrough](https://i.imgur.com/xyz123.png) -->
+![Sea Monster Prework](https://github.com/user-attachments/assets/9087bb60-bcc0-40cb-b6e3-79ddf12bc40a)
+
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
 <!-- <!-- Recommended tools: -->
