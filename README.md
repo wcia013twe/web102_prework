@@ -23,8 +23,9 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='https://imgur.com/a/PHA8U90' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/PHA8U90"><a href="//imgur.com/PHA8U90">Prework Website Showcase</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+<!-- <img src='https://imgur.com/a/PHA8U90' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+![Video Walkthrough](https://i.imgur.com/xyz123.png) -->
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
 <!-- <!-- Recommended tools: -->
